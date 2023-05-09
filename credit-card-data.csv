@@ -1,0 +1,2 @@
+bank_name,card_type,credit_card_number,checksum,country,bin_iin,ccn_length,luhn_test,mii,brand_network,pan,validation,
+Discover Bank,Rewards,6011000052027913,3,United States Of America,601100,16,pass,Merchandising And Banking,Discover,005202791,https://dnschecker.org/credit-card-validator.php?ccn=6011000052027913,
